@@ -7,6 +7,7 @@
 
 import SwiftUI
 //jgjgl
+///ohiiugtydrtdyugdty
 
 @main
 struct SeriesApp: App {
